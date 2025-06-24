@@ -1,0 +1,23 @@
+#myh1{
+    text-align : center;
+    font-family :Helvetica, sans-serif;
+
+}
+#counterLabel{
+    display : block;
+    text-align:center;
+    font-size:3em;
+    font-family:Helvetica;
+}
+#buttonContainer{
+    text-align:center;
+}
+.Buttons{
+    color:white;
+    Background-color :rgb(54, 132, 235);
+    font-size:26px;
+    padding : 10px 15px;
+    font-family :Helvetica;
+    border-radius : 15px;
+    
+}
